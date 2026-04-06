@@ -1,0 +1,54 @@
+[33mcommit 15d63f181a323691ee128ebf5ec2d874ca2f53ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch_by_hieu[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: hieuld123 <hie.ld0210@gmail.com>
+Date:   Mon Apr 6 15:45:59 2026 +0700
+
+    update by hieu
+
+[33mcommit baf1e2bd4fff2de8f5dc09fed0e1c28cd83c5763[m
+Author: NamLee <namlee3102@gmail.com>
+Date:   Mon Apr 6 15:40:59 2026 +0700
+
+    Update Program.cs
+
+[33mcommit 27061deb322e9ea80d5a5e318d1c5bdbda2d8178[m[33m ([m[1;31morigin/feature/thangnd_Nam29[m[33m)[m
+Merge: 310d16c 1a9977c
+Author: Duong Huy <145585116+ddhuy0612@users.noreply.github.com>
+Date:   Mon Apr 6 14:58:58 2026 +0700
+
+    Merge pull request #2 from ddhuy0612/feature/thangnd
+    
+    Them writeline
+
+[33mcommit 1a9977c8427864bf8f3d404028da8a55aa26c50c[m[33m ([m[1;31morigin/feature/thangnd[m[33m)[m
+Merge: 00e1123 310d16c
+Author: Duong Huy <145585116+ddhuy0612@users.noreply.github.com>
+Date:   Mon Apr 6 14:58:23 2026 +0700
+
+    Merge branch 'main' into feature/thangnd
+
+[33mcommit 00e1123e27d09916875cc185ffe983c9f228b989[m
+Author: Thangnd265 <thang.nd2605@gmail.com>
+Date:   Mon Apr 6 14:46:44 2026 +0700
+
+    Them writeline
+
+[33mcommit 310d16c9c41efcbc6187b8ddbb7efb7499709c2a[m
+Merge: e75e03b e602cf5
+Author: Duong Huy <145585116+ddhuy0612@users.noreply.github.com>
+Date:   Mon Apr 6 14:45:01 2026 +0700
+
+    Merge pull request #1 from hieuld123/branch_hieu
+    
+    hieu fix
+
+[33mcommit e602cf572457bfe4f66cf6cdf953b369235ebddf[m
+Author: hieuld123 <hie.ld0210@gmail.com>
+Date:   Mon Apr 6 14:43:07 2026 +0700
+
+    hieu fix
+
+[33mcommit e75e03b4a2332216662d7a334f4abb122fd94eab[m
+Author: Huy Duong <huy.dd6122002@gmai.com>
+Date:   Mon Apr 6 13:44:24 2026 +0700
+
+    Khoi tao project C# dau tien
