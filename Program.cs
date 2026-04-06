@@ -2,4 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Anh Hieu 36");
 Console.WriteLine("hieu");
-Console.WriteLine("abcxyz")
+Console.WriteLine("abcxyz");
+Console.WriteLine("12345");
